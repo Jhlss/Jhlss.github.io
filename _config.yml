@@ -1,3 +1,8 @@
 title: João Henrique Lírio da Silva
-description: Personal website
+description: Site pessoal acadêmico
 theme: minima
+
+header_pages:
+  - formacao.md
+  - pesquisa.md
+  - eventos.md
