@@ -4,19 +4,20 @@ title: Research
 permalink: /research/
 ---
 <p align="center">
-  <img src="/image-cosmo.png" width="700">
+  <img src="/image-cosmo.png" width="400">
 </p>
 
 
 
 
-My research interests include:
-
+### My research interests include:
 - Ergodic theory
 - Chaotic dynamical systems
 - Rigorous computational approaches
 - Celestial mechanics and the n-body problem
 - Perturbation theory
 - Topics in probability
-
 Field: Exact and Earth Sciences / Mathematics.
+
+
+### Publications
