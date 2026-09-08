@@ -3,7 +3,7 @@ layout: home
 title: About me
 ---
 
-![Photo](/foto.jpg){: width="200"}
+![Photo](/_UIL1765.jpg){: width="200"}
 
 Hi! My name is João Henrique Lírio da Silva. I am originally from Divinópolis, Minas Gerais, Brazil.
 
