@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <p align="center">
-  <img src="/.jpg" width="200">
+  <img src="/dynamical_systems_julia.svg" width="200">
 </p>
 
 
