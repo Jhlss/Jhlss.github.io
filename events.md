@@ -7,6 +7,12 @@ permalink: /events/
 
 [EDAI](http://mat.puc-rio.br/edai/)
 
+
+<p align="center">
+  <img src="/images-Edai.jpeg" width="500">
+</p>
+
+
 [DinamiCarioca](http://dinamicarioca.wikidot.com/seminars)
 
 
