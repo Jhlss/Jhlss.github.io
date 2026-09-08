@@ -3,6 +3,12 @@ layout: page
 title: Research
 permalink: /research/
 ---
+<p align="center">
+  <img src="/.jpg" width="200">
+</p>
+
+
+
 
 My research interests include:
 
