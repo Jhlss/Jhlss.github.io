@@ -13,7 +13,7 @@ Keywords: Diffusion coefficient; Nagaev-Guivarc'h method; Lyapunov exponent; Jul
 
 
 <p align="center">
-  <img src="/image-ct.jpg" width="200">
+  <img src="/image-ct.jpg" width="500">
 </p>
 
 
@@ -27,7 +27,7 @@ Funded by: FAPEMIG.
 
 
 <p align="center">
-  <img src="/unifei-image.jpg" width="200">
+  <img src="/unifei-image.jpg" width="500">
 </p>
 
 
@@ -36,7 +36,7 @@ Federal Institute of Education, Science and Technology of Minas Gerais, Formiga 
 
 
 <p align="center">
-  <img src="/images-ifmg.jpg" width="200">
+  <img src="/images-ifmg.jpeg" width="500">
 </p>
 
 
