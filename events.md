@@ -3,6 +3,12 @@ layout: page
 title: Events
 permalink: /events/
 ---
+### Frequent events
+
+[EDAI](http://mat.puc-rio.br/edai/)
+
+[DinamiCarioca](http://dinamicarioca.wikidot.com/seminars)
+
 
 ### Conferences, workshops, and events attended
 
