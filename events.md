@@ -5,7 +5,7 @@ permalink: /events/
 ---
 ### Frequent events
 
-[EDAI](http://mat.puc-rio.br/edai/)
+#### [EDAI](http://mat.puc-rio.br/edai/)
 
 
 <p align="center">
@@ -13,7 +13,7 @@ permalink: /events/
 </p>
 
 
-[DinamiCarioca](http://dinamicarioca.wikidot.com/seminars)
+#### [DinamiCarioca](http://dinamicarioca.wikidot.com/seminars)
 
 
 ### Conferences, workshops, and events attended
