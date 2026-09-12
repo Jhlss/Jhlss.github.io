@@ -17,9 +17,9 @@ permalink: /software/
 
 ### GitHub profiles with interesting repositories.
 
-[Isaia Nisoli](https://github.com/orkolorko)
-[David P. Sanders](https://github.com/dpsanders)
-[Abel Soares Siqueira](https://github.com/abelsiqueira)
-[Maxime Breden](https://github.com/MaximeBreden)
-[Matthew Colbrook](https://github.com/MColbrook)
-[Caroline Wormell](https://github.com/wormell)
+#### [Isaia Nisoli](https://github.com/orkolorko)
+#### [David P. Sanders](https://github.com/dpsanders)
+#### [Abel Soares Siqueira](https://github.com/abelsiqueira)
+#### [Maxime Breden](https://github.com/MaximeBreden)
+#### [Matthew Colbrook](https://github.com/MColbrook)
+#### [Caroline Wormell](https://github.com/wormell)
