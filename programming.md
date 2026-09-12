@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programming Language
-permalink: /programming language/
+title: Software
+permalink: /software/
 ---
 
 
