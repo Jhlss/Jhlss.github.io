@@ -1,6 +1,6 @@
 ---
 layout: home
-title: João Henrique Lírio da Silva
+title: About me
 description: PhD in Mathematics (UFRJ) — researcher in ergodic theory, chaotic dynamical systems and rigorous computational approaches.
 image: /favicon-512.png
 ---
