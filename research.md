@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <p align="center">
-  <img src="/image-cosmo.png" width="400">
+  <img src="/image-cosmo2.png" width="400">
 </p>
 
 
